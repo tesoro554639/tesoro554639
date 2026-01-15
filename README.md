@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<h1 align="center">Luis James Tesoro</h1>
+<h1 align="center">Hi! Im Luis James Tesoro</h1>
 <p align="center"><i>BSIT Student • Aspiring Web Developer</i></p>
 
 <p align="center">
