@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=220&section=header&text=Luis%20James%20Tesoro&fontSize=42&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Animated Cyber Header Banner -->
+  <a href="https://github.com/tesoro554639">
+    <img src="assets/header.svg" width="100%" alt="Luis James Tesoro - Software Engineer Banner" />
+  </a>
+
+  <br/>
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/tesoro554639">
