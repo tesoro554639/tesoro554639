@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>Hi, I'm Luis James Tesoro 👋</h1>
-  <p><b>BSIT Student &bull; Aspiring Full-Stack &amp; Mobile Developer</b></p>
+  <p><b>BSIT Student &bull; Aspiring Full-Stack &amp; Software Developer</b></p>
 
   <a href="https://github.com/tesoro554639">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=550&lines=Building+Multi-Tenant+SaaS+%26+Mobile+Apps;Flutter+%7C+C%23+%7C+TypeScript+%7C+Python+%7C+SQL;Focused+on+fundamentals+and+clean+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=550&lines=Building+Web%2C+Backend+%26+Software+Systems;C%23+%7C+Python+%7C+JavaScript+%7C+Dart+%7C+SQL;Focused+on+fundamentals+and+clean+code." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -22,18 +22,18 @@
 
 ### 👨‍💻 About Me
 
-I’m an **Information Technology student** focused on building practical, meaningful projects and developing a strong foundation in **web development, databases, and programming logic**. Rather than chasing buzzwords, I prefer learning by building clean, functional applications.
+I’m an **Information Technology student** focused on building practical, reliable software and developing a strong foundation in **programming logic, databases, and system architecture**. Rather than chasing buzzwords, I prefer learning by building clean, functional applications across different platforms and tech stacks.
 
-- 🔭 **Currently Building:** [**ChromaMetrics**](https://github.com/tesoro554639/ChromaMetrics) — Multi-Tenant SaaS Billing & Analytics platform built with Flutter, Supabase & PostgreSQL.
-- 💻 **Stack & Tools:** Working with C#, Dart/Flutter, TypeScript, Python, and relational database systems (SQL Server, PostgreSQL, MySQL).
-- 🎯 **Goals:** Strengthening core backend architecture, system design, and practical problem-solving.
+- 🔭 **What I Build:** Full-stack web applications, management information systems (CRM/ERP), and database-driven tools.
+- 💻 **Stack & Tools:** Working with C#, Python, JavaScript/TypeScript, Dart/Flutter, PHP, and relational databases (SQL Server, PostgreSQL, MySQL).
+- 🎯 **Goals:** Writing clean, maintainable code, mastering core fundamentals, and improving problem-solving consistently.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dart,flutter,ts,js,python,php,supabase,postgres,mysql,html,css,git,github,vscode&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,js,dart,flutter,php,postgres,mysql,supabase,html,css,git,github,vscode&perline=15" alt="Tech Stack" />
 </div>
 
 ---
@@ -72,16 +72,16 @@ I’m an **Information Technology student** focused on building practical, meani
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 ChromaMetrics</h4>
-      <p>Multi-Tenant SaaS Billing & Analytics platform with automated tenant provisioning, invoice metering, and interactive charts.</p>
-      <p><code>Flutter</code> &bull; <code>Dart</code> &bull; <code>Supabase</code> &bull; <code>PostgreSQL</code></p>
-      <a href="https://github.com/tesoro554639/ChromaMetrics"><b>View Repository &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
       <h4>🏢 CRMSGymsAvenue</h4>
-      <p>Gym management & customer relationship CRM with master and tenant database separation and automated reporting workflows.</p>
+      <p>Gym management & customer relationship system with database separation, membership tracking, and reporting workflows.</p>
       <p><code>C# / .NET</code> &bull; <code>SQL Server</code> &bull; <code>Full-Stack</code></p>
       <a href="https://github.com/tesoro554639/CRMSGymsAvenue"><b>View Repository &rarr;</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 ChromaMetrics</h4>
+      <p>Analytics and billing management system featuring automated tenant provisioning, invoice metering, and interactive dashboards.</p>
+      <p><code>Flutter</code> &bull; <code>Dart</code> &bull; <code>Supabase</code> &bull; <code>PostgreSQL</code></p>
+      <a href="https://github.com/tesoro554639/ChromaMetrics"><b>View Repository &rarr;</b></a>
     </td>
   </tr>
   <tr>
