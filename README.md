@@ -65,43 +65,9 @@ I’m an **Information Technology student** focused on building practical, relia
 
 </div>
 
----
-
-### 🌟 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 CRMSGymsAvenue</h4>
-      <p>Gym management & customer relationship system with database separation, membership tracking, and reporting workflows.</p>
-      <p><code>C# / .NET</code> &bull; <code>SQL Server</code> &bull; <code>Full-Stack</code></p>
-      <a href="https://github.com/tesoro554639/CRMSGymsAvenue"><b>View Repository &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 ChromaMetrics</h4>
-      <p>Analytics and billing management system featuring automated tenant provisioning, invoice metering, and interactive dashboards.</p>
-      <p><code>Flutter</code> &bull; <code>Dart</code> &bull; <code>Supabase</code> &bull; <code>PostgreSQL</code></p>
-      <a href="https://github.com/tesoro554639/ChromaMetrics"><b>View Repository &rarr;</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 Mini-E-Commerce-Checkout</h4>
-      <p>Interactive web checkout interface with dynamic cart calculations, input validation, and responsive UI state transitions.</p>
-      <p><code>JavaScript</code> &bull; <code>CSS3</code> &bull; <code>HTML5</code></p>
-      <a href="https://github.com/tesoro554639/Mini-E-Commerce-Checkout"><b>View Repository &rarr;</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⏱️ TimeTrack</h4>
-      <p>Productivity and task logging system designed for streamlined time tracking and efficiency metrics.</p>
-      <p><code>Python</code> &bull; <code>Automation</code></p>
-      <a href="https://github.com/tesoro554639/Timetrack_Final_Project"><b>View Repository &rarr;</b></a>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <div align="center">
   <sub>Focused on fundamentals. Improving consistently.</sub>
 </div>
+
