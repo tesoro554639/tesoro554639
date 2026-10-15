@@ -1,44 +1,40 @@
 <div align="center">
 
-  <!-- Animated Cyber Header Banner -->
+  <h1>Hi, I'm Luis James Tesoro 👋</h1>
+  <p><b>BSIT Student &bull; Aspiring Full-Stack &amp; Mobile Developer</b></p>
+
   <a href="https://github.com/tesoro554639">
-    <img src="assets/header.svg" width="100%" alt="Luis James Tesoro - Software Engineer Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=550&lines=Building+Multi-Tenant+SaaS+%26+Mobile+Apps;Flutter+%7C+C%23+%7C+TypeScript+%7C+Python+%7C+SQL;Focused+on+fundamentals+and+clean+code." alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/tesoro554639">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Luis+James+Tesoro+%F0%9F%91%8B;Building+Multi-Tenant+SaaS+%26+Mobile+Architectures+%E2%9A%A1;Flutter+%7C+TypeScript+%7C+Python+%7C+Supabase+%7C+SQL;Always+leveling+up+and+shipping+high-impact+software." alt="Typing SVG" />
-  </a>
-
-  <p align="center">
+  <p>
+    <a href="https://linkedin.com/in/luis-james-tesoro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:tesoroluisjames@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://komarev.com/ghpvc/?username=tesoro554639&label=Profile%20Views&color=00D2FF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20Scalable%20Systems-00D2FF?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Roles-success?style=flat-square" alt="Status" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Luis James Tesoro
-role: Software Engineer & Full-Stack Developer
-degree: B.S. in Information Technology
-mindset: Solo Leveling ("Constantly breaking limits & refining craft")
-focus_areas:
-  - Multi-Tenant SaaS Architecture
-  - Cross-Platform Mobile Apps (Flutter / Dart)
-  - Full-Stack Web Development & Relational Database Design
-current_flagship: ChromaMetrics (SaaS Billing & Analytics Engine)
-```
+I’m an **Information Technology student** focused on building practical, meaningful projects and developing a strong foundation in **web development, databases, and programming logic**. Rather than chasing buzzwords, I prefer learning by building clean, functional applications.
 
-- 🚀 **What I'm building:** Currently architecting **[ChromaMetrics](https://github.com/tesoro554639/ChromaMetrics)** — an enterprise multi-tenant SaaS billing, metering, and real-time analytics suite built with **Flutter**, **Supabase**, and **PostgreSQL**.
-- 🛠️ **Engineering approach:** I believe in mastering fundamentals first, writing clean architecture, and building robust, production-grade applications rather than chasing fleeting hype.
-- 💡 **Interests:** Distributed systems, reactive UI architectures, API design, database normalization, and modern UI/UX workflows.
+- 🔭 **Currently Building:** [**ChromaMetrics**](https://github.com/tesoro554639/ChromaMetrics) — Multi-Tenant SaaS Billing & Analytics platform built with Flutter, Supabase & PostgreSQL.
+- 💻 **Stack & Tools:** Working with C#, Dart/Flutter, TypeScript, Python, and relational database systems (SQL Server, PostgreSQL, MySQL).
+- 🎯 **Goals:** Strengthening core backend architecture, system design, and practical problem-solving.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dart,flutter,ts,js,python,php,supabase,postgres,mysql,html,css,git,github,vscode&perline=15" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -50,7 +46,7 @@ current_flagship: ChromaMetrics (SaaS Billing & Analytics Engine)
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/tesoro554639">
-          <img src="https://github-readme-stats.vercel.app/api?username=tesoro554639&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=tesoro554639&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=E6EDF3" alt="GitHub Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -63,50 +59,9 @@ current_flagship: ChromaMetrics (SaaS Billing & Analytics Engine)
 
   <br/>
 
-  <!-- Top Languages Card -->
   <a href="https://github.com/tesoro554639">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesoro554639&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=E6EDF3" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesoro554639&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
   </a>
-
-</div>
-
----
-
-### 🐍 Contribution Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tesoro554639/tesoro554639/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tesoro554639/tesoro554639/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tesoro554639/tesoro554639/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-### 🛠️ Tech Arsenal & Stack
-
-<div align="center">
-
-  <h4>Languages</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=dart,ts,js,python,php,cs,html,css&perline=8" alt="Languages" />
-  </p>
-
-  <h4>Frameworks & Mobile</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap&perline=8" alt="Frameworks" />
-  </p>
-
-  <h4>Databases & Backend</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase&perline=8" alt="Databases" />
-  </p>
-
-  <h4>Tools & Environments</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&perline=8" alt="Tools" />
-  </p>
 
 </div>
 
@@ -117,76 +72,36 @@ current_flagship: ChromaMetrics (SaaS Billing & Analytics Engine)
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📊 ChromaMetrics</h3>
-      <p>Multi-Tenant SaaS Billing & Real-time Analytics platform. Features automated tenant provisioning, invoice metering, role-based access control, and dynamic chart dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/tesoro554639/ChromaMetrics"><b>View Repository →</b></a>
+      <h4>📊 ChromaMetrics</h4>
+      <p>Multi-Tenant SaaS Billing & Analytics platform with automated tenant provisioning, invoice metering, and interactive charts.</p>
+      <p><code>Flutter</code> &bull; <code>Dart</code> &bull; <code>Supabase</code> &bull; <code>PostgreSQL</code></p>
+      <a href="https://github.com/tesoro554639/ChromaMetrics"><b>View Repository &rarr;</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🏢 CRMSGymsAvenue</h3>
-      <p>Enterprise gym management and customer relationship system with dedicated master and tenant database separation, automated membership workflows, and reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full--Stack-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CRM%20Architecture-00D2FF?style=flat-square"/>
-      </p>
-      <a href="https://github.com/tesoro554639/CRMSGymsAvenue"><b>View Repository →</b></a>
+      <h4>🏢 CRMSGymsAvenue</h4>
+      <p>Gym management & customer relationship CRM with master and tenant database separation and automated reporting workflows.</p>
+      <p><code>C# / .NET</code> &bull; <code>SQL Server</code> &bull; <code>Full-Stack</code></p>
+      <a href="https://github.com/tesoro554639/CRMSGymsAvenue"><b>View Repository &rarr;</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛒 Mini-E-Commerce-Checkout</h3>
-      <p>Modern, responsive e-commerce checkout interface featuring dynamic cart calculation, input validation, and interactive customer state transitions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UX%20Design-FF6F61?style=flat-square"/>
-      </p>
-      <a href="https://github.com/tesoro554639/Mini-E-Commerce-Checkout"><b>View Repository →</b></a>
+      <h4>🛒 Mini-E-Commerce-Checkout</h4>
+      <p>Interactive web checkout interface with dynamic cart calculations, input validation, and responsive UI state transitions.</p>
+      <p><code>JavaScript</code> &bull; <code>CSS3</code> &bull; <code>HTML5</code></p>
+      <a href="https://github.com/tesoro554639/Mini-E-Commerce-Checkout"><b>View Repository &rarr;</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⏱️ TimeTrack</h3>
-      <p>Productivity tracking and project time management application designed for streamlined task logging and efficiency metrics calculation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Automation-4B8BBE?style=flat-square"/>
-      </p>
-      <a href="https://github.com/tesoro554639/Timetrack_Final_Project"><b>View Repository →</b></a>
+      <h4>⏱️ TimeTrack</h4>
+      <p>Productivity and task logging system designed for streamlined time tracking and efficiency metrics.</p>
+      <p><code>Python</code> &bull; <code>Automation</code></p>
+      <a href="https://github.com/tesoro554639/Timetrack_Final_Project"><b>View Repository &rarr;</b></a>
     </td>
   </tr>
 </table>
 
----
-
-### 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-  <a href="https://linkedin.com/in/luis-james-tesoro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tesoro554639" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:tesoroluisjames@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
 <br/>
 
 <div align="center">
-  <sub><i>"There is no limit to growth — wake up every day ready to level up."</i> ⚡</sub>
+  <sub>Focused on fundamentals. Improving consistently.</sub>
 </div>
