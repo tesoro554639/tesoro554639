@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/luis-james-tesoro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:tesoroluisjames@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=tesoro554639&label=Profile%20Views&color=00D2FF&style=flat-square" alt="Profile Views" />
+    <img src="https://views.igorkowalczyk.dev/api/badge/tesoro554639?style=flat&color=00D2FF&label=Profile%20Views" alt="Profile Views" />
   </p>
 
 </div>
